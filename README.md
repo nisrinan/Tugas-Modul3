@@ -46,3 +46,7 @@ Masukkan jumlah juz yang ingin dihafal: 5 Masukkan waktu (dalam tahun): 2 Anda p
 ## Informasi Penting
 - Pastikan untuk memeriksa kembali input yang Anda masukkan untuk menghindari kesalahan perhitungan.
 - Jika Anda menemukan bug atau memiliki saran untuk perbaikan, silakan buka issue di repositori ini
+
+##Untuk Informasi Lebih Lanjut Bisa Hubungi
+email : siapagitu@gmail.com
+telp : 081234567890
